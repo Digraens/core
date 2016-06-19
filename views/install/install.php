@@ -1,6 +1,6 @@
 <h2>Install Flarum</h2>
 
-<p>Set up your forum by filling out your details below. If you have a problem when installing, report your issues <a href="https://github.com/darwintheory/openshift-flarum-quickstart/issues" target="_blank">Here</a>.</p>
+<p>Set up your forum by filling out your details below. If you have a problem when installing, report your issues <a href="https://github.com/Jelenadria/openshift-flarum-quickstart/issues" target="_blank">Here</a>.</p>
 
 <form method="post">
   <div id="error" style="display:none"></div>
